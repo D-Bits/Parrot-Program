@@ -1,0 +1,11 @@
+C:\Users\Dana\Documents\Dev\CS\ParrotProgram\obj\Debug\netcoreapp2.0\ParrotProgram.csproj.CoreCompileInputs.cache
+C:\Users\Dana\Documents\Dev\CS\ParrotProgram\obj\Debug\netcoreapp2.0\ParrotProgram.AssemblyInfoInputs.cache
+C:\Users\Dana\Documents\Dev\CS\ParrotProgram\obj\Debug\netcoreapp2.0\ParrotProgram.AssemblyInfo.cs
+C:\Users\Dana\Documents\Dev\CS\ParrotProgram\bin\Debug\netcoreapp2.0\ParrotProgram.deps.json
+C:\Users\Dana\Documents\Dev\CS\ParrotProgram\bin\Debug\netcoreapp2.0\ParrotProgram.runtimeconfig.json
+C:\Users\Dana\Documents\Dev\CS\ParrotProgram\bin\Debug\netcoreapp2.0\ParrotProgram.runtimeconfig.dev.json
+C:\Users\Dana\Documents\Dev\CS\ParrotProgram\bin\Debug\netcoreapp2.0\ParrotProgram.dll
+C:\Users\Dana\Documents\Dev\CS\ParrotProgram\bin\Debug\netcoreapp2.0\ParrotProgram.pdb
+C:\Users\Dana\Documents\Dev\CS\ParrotProgram\obj\Debug\netcoreapp2.0\ParrotProgram.dll
+C:\Users\Dana\Documents\Dev\CS\ParrotProgram\obj\Debug\netcoreapp2.0\ParrotProgram.pdb
+C:\users\dana\documents\dev\cs\parrotprogram\obj\Debug\netcoreapp2.0\ParrotProgram.csprojAssemblyReference.cache
